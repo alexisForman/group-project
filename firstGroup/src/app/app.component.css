@@ -1,16 +1,17 @@
 .container {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 100vh;
 }
 .subContainer {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 5.15rem;
+  padding-right: 5.15rem;
+  /* border: 2px solid red; */
 }
 .section1 {
-  height: 35vh;
+  height: 47.4vh;
   background-color: #007e67;
 }
 .section2 {
   background-color: #f1f5f9;
-  height: 65vh;
+  height: 52.6vh;
 }
