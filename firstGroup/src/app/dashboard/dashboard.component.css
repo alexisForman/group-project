@@ -97,7 +97,8 @@ img {
 .circle1 {
   height: 50px;
   width: 50px;
-  position: fixed;
+  /* position: fixed;
+  //I commented the above out to stop this circle from moving around the page as I was scrolling up and down.  */
   background-color: #ef4444;
   /* display: flex; */
   border-radius: 50%;
@@ -107,7 +108,6 @@ img {
   background-color: #f97315;
   height: 50px;
   width: 50px;
-  /* display: flex; */
   border-radius: 50%;
   display: flex;
   justify-content: center;

@@ -13,5 +13,6 @@
 }
 .section2 {
   background-color: #f1f5f9;
-  height: 52.6vh;
+  /* height: 52.6vh; */
+  /*I commented out the height so the background would continue to the bottom of the page. */
 }
